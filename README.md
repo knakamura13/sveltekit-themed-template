@@ -1,38 +1,5 @@
-# create-svelte
+# SvelteKit-Themed Template
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A template for a SvelteKit app containing scss to match the theme used on the [SvelteKit Documentation](https://kit.svelte.dev/docs/introduction).
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+![Screenshot 2023-04-22 at 6 59 52 PM](https://user-images.githubusercontent.com/20162718/233815363-ef202c64-e30b-45bb-b17a-bc116100bd23.png)
